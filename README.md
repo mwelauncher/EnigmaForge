@@ -121,9 +121,9 @@ exec(bytes([b ^ _k for b in _n]).decode('utf-8'))
 ```
 
 
-### 🔐 Security & Limitations (expanded)
+### 🔐 Security & Limitations
 
-EnigmaForge raises the bar for casual code inspection, but it’s important to be realistic about what obfuscation can — and cannot — do.
+EnigmaForge raises the bar for casual code inspection, but it’s important to be realistic about what obfuscation can and cannot do.
 
 What obfuscation protects against
 	•	Casual reading: removes human-friendly identifiers, whitespace and strings.
