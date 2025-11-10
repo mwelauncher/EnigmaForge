@@ -50,7 +50,7 @@ Unlike tools that compile your project into binary form, EnigmaForge leaves the 
 <img width="630" height="661" alt="image" src="https://pypi-camo.freetls.fastly.net/0c90ebcf535ccfa430b4cd278698da05e855f69e/68747470733a2f2f6e6974726174696e652e6e65742f706f7374732f6175746f2d70792d746f2d6578652f6175746f2d70792d746f2d6578652d64656d6f2e676966" />
 
 ### Getting Started
-## Prerequisites
+Prerequisites
 ## Python: 3.6-3.12
 To have the interface displayed in the images, you will need Chrome. If Chrome is not installed or --default-browser is passed, the default browser will be used.
 
