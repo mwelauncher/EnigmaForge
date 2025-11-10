@@ -46,7 +46,7 @@ Unlike tools that compile your project into binary form, EnigmaForge leaves the 
 - Replace licensing, signing, or anti-debugging protection.  
 - Obfuscate `.pyc` or compiled binary modules.
 
-> 💡 To turn your obfuscated file into an `.exe`, use a separate bundler (e.g., **PyInstaller**) after obfuscation — instructions below.
+> 💡 To turn your obfuscated file into an `.exe`, use a separate bundler (e.g., **PyInstaller**, or **Auto-py-to-exe**) after obfuscation — instructions below.
 <img width="630" height="661" alt="image" src="https://github.com/user-attachments/assets/6ba46cf2-9aa9-4fab-9f17-8f16440422e8" />
 
 ```bash
