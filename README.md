@@ -23,10 +23,7 @@ Unlike tools that compile your project into binary form, EnigmaForge leaves the 
   Includes a “PyArmor-style” XOR wrapper that converts bytes to integer arrays and reconstructs them at runtime.
 
 - 🪶 **Lightweight GUI**  
-  Simple and elegant PyQt6 interface — load, obfuscate, and save in seconds.
-
-- 📁 **Relative Resource Paths**  
-  Works from any folder — automatically finds local `logo.png` and other resources.
+  Simple and elegant Qt interface — load, obfuscate, and save in seconds.
 
 - 🧠 **Safe Execution**  
   Produces fully functional Python scripts that execute the original logic at runtime via dynamic decoding.
