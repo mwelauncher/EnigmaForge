@@ -8,7 +8,7 @@ EnigmaForge is a desktop GUI tool for **obfuscating and hiding Python source cod
 
 ## 🧠 About
 
-EnigmaForge focuses on simplicity and strength. With a clean **PyQt6 graphical interface**, it lets you load any Python script, choose between several obfuscation methods, and instantly generate a new, protected `.py` file.
+EnigmaForge focuses on simplicity and strength. With a clean **Qt graphical interface**, it lets you load any Python script, choose between several obfuscation methods, and instantly generate a new, protected `.py` file.
 
 Unlike tools that compile your project into binary form, EnigmaForge leaves the packaging process (e.g., PyInstaller) entirely up to you — giving developers maximum control and flexibility.
 
