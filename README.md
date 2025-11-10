@@ -2,7 +2,7 @@
 
 **EnigmaForge** — Advanced Python code obfuscation tool.
 
-EnigmaForge is a desktop GUI tool for **obfuscating and hiding Python source code**. It applies multi-layer transformations (compression, encoding and simple runtime wrappers) to produce **directly executable Python files** that are hard to read statically — but **EnigmaForge does not bundle or convert scripts into standalone `.exe` files**. Packaging into an executable is intentionally left as a separate step (e.g., with PyInstaller) so you keep full control over bundling and distribution.
+EnigmaForge is a desktop GUI tool for **obfuscating and hiding Python source code**. It applies multi-layer transformations (compression, encoding and simple runtime wrappers) to produce **directly executable Python files** that are hard to read statically, but **EnigmaForge does not bundle or convert scripts into standalone `.exe` files**. Packaging into an executable is intentionally left as a separate step (e.g., with PyInstaller) so you keep full control over bundling and distribution.
 
 ---
 
