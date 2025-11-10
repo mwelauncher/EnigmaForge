@@ -48,9 +48,11 @@ Unlike tools that compile your project into binary form, EnigmaForge leaves the 
 
 > 💡 To turn your obfuscated file into an `.exe`, use a separate bundler (e.g., **PyInstaller**) after obfuscation — instructions below.
 <img width="630" height="661" alt="image" src="https://github.com/user-attachments/assets/6ba46cf2-9aa9-4fab-9f17-8f16440422e8" />
+
 ```bash
 pip install auto-py-to-exe
 ```
+
 ---
 
 ## 🚀 Quick Start
