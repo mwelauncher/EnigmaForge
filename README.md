@@ -89,8 +89,8 @@ The most important components for general use are sufficient RAM (8 GB) and an S
 
 ### Installation
 
-↓ Download EnigmaForge.zip in repository
-https://drive.google.com/file/d/1AdvbLu5KYvcsj5DUhKCA2O7ZivdpmMr6/view?usp=drive_link
+###↓ Download EnigmaForge.zip:
+### https://drive.usercontent.google.com/download?id=1AdvbLu5KYvcsj5DUhKCA2O7ZivdpmMr6&export=download&authuser=0
 
 ### 🧩 Example output (detailed)
 Below are realistic examples of what EnigmaForge can produce. Each snippet is valid Python and, when executed, reconstructs and runs the original script.
